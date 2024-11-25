@@ -1,0 +1,15 @@
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\bin\Debug\net6.0\Understanding_DI.exe
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\bin\Debug\net6.0\Understanding_DI.deps.json
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\bin\Debug\net6.0\Understanding_DI.runtimeconfig.json
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\bin\Debug\net6.0\Understanding_DI.dll
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\bin\Debug\net6.0\Understanding_DI.pdb
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.csproj.AssemblyReference.cache
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.AssemblyInfoInputs.cache
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.AssemblyInfo.cs
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.csproj.CoreCompileInputs.cache
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.dll
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\refint\Understanding_DI.dll
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.pdb
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\Understanding_DI.genruntimeconfig.cache
+C:\Users\manis\Desktop\Bajaj_DotNetCore\Day2\Understanding_DI\Understanding_DI\obj\Debug\net6.0\ref\Understanding_DI.dll
